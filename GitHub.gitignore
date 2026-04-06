@@ -1,0 +1,14 @@
+# Environments
+venv/
+.env
+
+# Data (Keep raw data local)
+data/raw/
+data/processed/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
